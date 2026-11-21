@@ -24,7 +24,7 @@ A saída atual é ilustrativa. Ainda não existe um registo que confirme instala
 EXEMPLO · Configuração inicial · Mensagem do esboço
 ```
 
-Lê pela ordem **resultado**, **etapa** e **detalhe**. Para investigar uma falha, confirma primeiro a data e a versão, depois abre o primeiro passo que falhou.
+Esta linha diz apenas que o esboço escreveu uma mensagem. Para conhecer os registos do servidor em funcionamento, consulta os [exemplos do ESCUDO](https://github.com/mppt24/MPPT24OS/blob/main/GUIA.md#como-ler-um-registo-do-escudo).
 
 ## Cuidados
 
