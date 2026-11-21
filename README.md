@@ -1,8 +1,10 @@
 # Configuração do servidor MPPT24
 
-[Guia de leitura, infográfico e cuidados](GUIA.md)
-
 Módulo do [MPPT24OS](https://github.com/mppt24/MPPT24OS) para reunir rotinas de configuração e atualização de um servidor Linux.
+
+Se queres conhecer o servidor em funcionamento, abre o [infográfico do ESCUDO](https://github.com/mppt24/MPPT24OS#mppt24-escudo).
+
+[Infográfico e guia do módulo](GUIA.md)
 
 ## Estado · Em evolução
 
@@ -15,6 +17,9 @@ Os dois scripts públicos são esboços. Quando executados, escrevem apenas uma 
 
 ## Experimentar os esboços
 
+<details>
+<summary>Ver os comandos que escrevem uma mensagem no terminal</summary>
+
 Com Bash, abre a pasta do repositório e executa:
 
 ```bash
@@ -22,7 +27,7 @@ bash scripts/setup.sh
 bash scripts/update.sh
 ```
 
-Para conhecer o servidor e os restantes componentes, consulta a [apresentação do ESCUDO](https://github.com/mppt24/MPPT24OS#mppt24-escudo).
+</details>
 
 ## Licença
 
