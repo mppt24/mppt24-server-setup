@@ -1,5 +1,7 @@
 # Configuração do servidor MPPT24
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Módulo do [MPPT24OS](https://github.com/mppt24/MPPT24OS) para reunir rotinas de configuração e atualização de um servidor Linux.
 
 ## Estado · Em evolução
