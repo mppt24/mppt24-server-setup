@@ -2,7 +2,7 @@
 
 Módulo do [MPPT24OS](https://github.com/mppt24/MPPT24OS) para reunir rotinas de configuração e atualização de um servidor Linux.
 
-## Estado atual
+## Estado · Em evolução
 
 Os dois scripts públicos são esboços. Quando executados, escrevem apenas uma mensagem no terminal. A configuração e a atualização do sistema ainda estão em preparação.
 
